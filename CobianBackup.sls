@@ -1,5 +1,5 @@
 Cobian Backup:
-  '11.2.0.582'
+  '11.2.0.582':
     full_name: 'Cobian Backup 11'
     installer: 'http://files.cobiansoft.com/programz/cbSetup.exe'
     install_flags: '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
